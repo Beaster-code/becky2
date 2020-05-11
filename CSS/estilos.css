@@ -1,0 +1,37 @@
+* {
+    font-familly: Arial;
+    color: white;
+  }
+  
+  img {
+    width:320px;
+  }
+  
+  h4 {
+    color: red;
+  }
+  h1 {
+    font-family:Antique Olive
+  }
+  strong {
+    font-familly: monospace;
+    color: pink;
+  }
+  body {
+    background-color: black;
+  }
+  htg {
+    color: pink
+  }
+  img src="https://pbs.twimg.com/media/EVG1fN-UwAEKYCV?format=jpg&name=medium" {
+    width: 120px
+  }
+  kkj {
+    color: #0059EB
+  }
+  img src="https://cdn.shopify.com/s/files/1/0325/2545/1309/products/BeckyGTheyAin_tReady-min_40144b36-ac29-41e1-8e19-285978ad77a2_1024x1024.jpg?v=1586638752" {
+    width: 30px
+  }
+  a {
+    text-decoration: none;
+  }
